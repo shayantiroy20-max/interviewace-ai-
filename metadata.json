@@ -1,0 +1,8 @@
+{
+  "name": "InterviewAce AI",
+  "description": "Indian Placement Prep Portal - Resume Analyzer & Coach for TCS, Infosys, and Product Placements.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
